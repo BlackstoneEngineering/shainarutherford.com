@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Custom Tile Work
+subtitle: Bathroom Redo
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: 2018-02-26 (12).jpg
+thumbnail: 2018-02-26 (12).jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: SOMEONES NAME
+category: Tile
+description: With a tight 2 week turnaround we were able to create a master piece of marble and mahogony that the client had been dreaming about for years. 
 
 ---

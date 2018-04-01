@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Dream House
+subtitle: Special Tile work
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: 2018-02-26 (9).jpg
+thumbnail: 2018-02-26 (9).jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: someones name
+category: Build Out and finishing 
+description: We were priveliedged to get to work with NAMEOFPERSON on their dream house. We were deeply involved from concept to buildout. We couldnt be happier with our work, and our client was overjoyed with his new home. 
 
 ---

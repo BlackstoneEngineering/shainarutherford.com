@@ -28,3 +28,7 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
+
+
+### Create grayscale image
+`convert header-bg-2.png -colorspace Gray -gamma 2.2 -fill black  -colorize 65%  header-bg-2-grey.jpg`
